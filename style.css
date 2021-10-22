@@ -122,7 +122,7 @@ h4, p {
 }
 
 span {
-    border-bottom: 2px solid #ffff00;
+    border-bottom: 3px solid #ffff00;
 }
 
 .myImage {
@@ -131,7 +131,7 @@ span {
 
 .myImage img {
     border-radius: 50px;
-    border: 2px solid #ffff00;
+    border: 3px solid #ffff00;
 }
 
 a:visited {
@@ -144,7 +144,7 @@ a {
 }
 
 a:hover, a:focus {
-    border-bottom: 2px solid #ffff00;
+    border-bottom: 3px solid #ffff00;
 }
 
 .projectList {
@@ -176,7 +176,7 @@ a:hover, a:focus {
 .projectImages {
     height: 90%;
     margin-left: 2.5rem;
-    border: 2px solid #ffff00;
+    border: 3px solid #ffff00;
     border-radius: 20px;
     margin-right: 2rem;
 }
