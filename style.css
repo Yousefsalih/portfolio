@@ -59,7 +59,7 @@ ul {
     justify-content: center;
     align-items: center;
     color: #595eff;
-    height: 80vh;
+    height: 70vh;
 }
 
 .bottomHeaderTitle {
@@ -136,6 +136,10 @@ span {
 
 a:visited {
     text-decoration: none;
+    color: white;
+}
+
+a {
     color: white;
 }
 
