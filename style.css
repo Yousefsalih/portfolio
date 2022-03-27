@@ -245,7 +245,7 @@ nav .open-menu, .close-menu {
         right: 0;
         left: 0;
         z-index: 50;
-        height: 30vh;
+        height: 60vh;
         -webkit-box-orient: vertical;
         -webkit-box-direction: normal;
             -ms-flex-direction: column;
